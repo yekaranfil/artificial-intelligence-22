@@ -8,3 +8,8 @@ if not1>=59.5 or final>=85:
     print(ad,"Geçti")
 else:
     print(ad,"Kaldı")
+
+
+
+
+
